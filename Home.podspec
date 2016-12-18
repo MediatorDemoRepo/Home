@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Home"
-  s.version      = "1.0"
+  s.version      = "1"
   s.summary      = "Home."
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     this is Home
                    DESC
 
-  s.homepage     = "https://github.com/zzgo/Home"
+  s.homepage     = "https://github.com/MediatorDemoRepo/Home"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/zzgo/Home.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/MediatorDemoRepo/Home.git", :tag => s.version.to_s }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
